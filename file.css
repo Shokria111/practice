@@ -1,0 +1,28 @@
+h1 { background-image: url('D:\Codeacademey\fristProject\images\pattern.webp');
+    color: khaki;
+    font-weight: bold;
+    font-size: 100px;
+    font-family: Helvetica;}
+
+#spring-green {
+background-color:mediumspringgreen;
+font-family: Helvetica;
+font-weight: bold;
+color: white;
+}
+
+span {
+    font-family: Helvetica;
+    font-weight: bold;
+    color: blue;
+}
+#frame {
+    background-color: lightcoral;
+    font-family: Helvetica;
+    font-weight: bold;
+    color: white;
+}
+#paint {
+    background-color:skyblue;
+    color: white;
+}
